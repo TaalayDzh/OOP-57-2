@@ -36,4 +36,4 @@ class UserAccount:
             else:
                 print("Ошибка: пользователь не авторизован.")
 
-        acc = UserAccount("Ivan", 1000, "qwerty")
+                acc = UserAccount("Ivan", 1000, "qwerty")
